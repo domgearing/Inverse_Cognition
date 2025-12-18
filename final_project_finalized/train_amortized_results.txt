@@ -1,0 +1,24 @@
+Epoch 1 | train(goal=0.194, β=0.247) | test(goal=0.175, β=0.262)
+Epoch 2 | train(goal=0.647, β=0.266) | test(goal=0.662, β=0.375)
+Epoch 3 | train(goal=0.744, β=0.297) | test(goal=0.788, β=0.388)
+Epoch 4 | train(goal=0.791, β=0.316) | test(goal=0.825, β=0.362)
+Epoch 5 | train(goal=0.834, β=0.312) | test(goal=0.862, β=0.35)
+Epoch 6 | train(goal=0.894, β=0.347) | test(goal=0.9, β=0.388)
+Epoch 7 | train(goal=0.925, β=0.459) | test(goal=0.938, β=0.438)
+Epoch 8 | train(goal=0.925, β=0.472) | test(goal=0.938, β=0.438)
+Epoch 9 | train(goal=0.912, β=0.472) | test(goal=0.938, β=0.425)
+Epoch 10 | train(goal=0.919, β=0.475) | test(goal=0.938, β=0.438)
+Epoch 11 | train(goal=0.928, β=0.484) | test(goal=0.938, β=0.4)
+Epoch 12 | train(goal=0.928, β=0.488) | test(goal=0.938, β=0.425)
+Epoch 13 | train(goal=0.941, β=0.475) | test(goal=0.938, β=0.412)
+Epoch 14 | train(goal=0.95, β=0.497) | test(goal=0.938, β=0.4)
+Epoch 15 | train(goal=0.953, β=0.506) | test(goal=0.938, β=0.388)
+Epoch 16 | train(goal=0.962, β=0.509) | test(goal=0.95, β=0.4)
+Epoch 17 | train(goal=0.972, β=0.509) | test(goal=0.95, β=0.412)
+Epoch 18 | train(goal=0.978, β=0.519) | test(goal=0.95, β=0.412)
+Epoch 19 | train(goal=0.975, β=0.516) | test(goal=0.975, β=0.388)
+Epoch 20 | train(goal=0.975, β=0.534) | test(goal=0.975, β=0.375)
+
+Final TEST performance:
+  Goal accuracy: 0.975
+  Beta accuracy: 0.375
